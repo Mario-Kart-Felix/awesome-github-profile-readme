@@ -148,6 +148,7 @@
 - [TheAbbie](https://github.com/theabbie/theabbie)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
+- [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -239,7 +240,6 @@
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Akash Rai](https://github.com/akasrai/akasrai)
-- [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
